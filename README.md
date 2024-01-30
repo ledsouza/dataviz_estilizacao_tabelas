@@ -7,6 +7,9 @@ Desenvolver estilizações de tabelas utilizando o objeto Styler do pandas
 | :sparkles: Nome        | **Estilização de Tabelas**
 | :label: Tecnologias | python, pandas
 
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://vitrinedev.s3.amazonaws.com/estilizacao_tabelas.png#vitrinedev)
+
 ## Detalhes do projeto
 
 - Entender as classes da biblioteca Pandas para estilizar tabelas
